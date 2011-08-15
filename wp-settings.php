@@ -1,4 +1,6 @@
+
 <?php
+//Here is line of code that I added (Donzo).
 /**
  * Used to set up and fix common variables and include
  * the WordPress procedural and class library.
